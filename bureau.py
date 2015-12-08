@@ -1,5 +1,5 @@
 # Met dit programma kan je gemakkelijk afleveringen van Het Bureau luisteren
-# op de site van VPRO. Het is aan te bevelen om dan wel bij 'firefox' het juiste
+# op de site van NTR. Het is aan te bevelen om dan wel bij 'firefox' het juiste
 # bestandspad in te vullen.
 
 from subprocess import call
